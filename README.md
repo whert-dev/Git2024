@@ -35,4 +35,14 @@ It also includes the changes submitted during the live website collaboration ses
 
 If you want to jump in at a specific step of the workshop, there are available branches representing the repository state at that point:
 
-* TBD
+* Local Development
+    * `local/step-0`: Empty repository, after `git init`
+    * `local/step-1`: Imported files from upstream
+    * `local/step-2`: Changes made in new branch
+    * `local/step-3`: Merged changes into main
+* Group Development
+    * `group/step-0`: Forked/cloned repository
+    * `group/step-1a`: Change to full dates
+    * `group/step-1b`: Change to international dates
+    * `group/step-2`: State after merge conflict
+    * `group/step-3`: State after resolving, and running `git commit`
