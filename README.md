@@ -8,6 +8,15 @@ If your coming from the *Live Page*, see the [`guide.md`](./guide.md) page; and 
 
 ## Instructions
 
++ Slides: <https://docs.google.com/presentation/d/1srdiNmXH5OSu7ADCEZYxBOcBrybGCdaeWRe4vxnqsrU>
+
+### Installation
+
++ Git: <https://git-scm.com/downloads>
+    + On Windows: Make sure you set "Visual Studio Code" as your editor during setup.
++ VSCode: <https://code.visualstudio.com/download>
++ GitHub CLI: <https://cli.github.com>
+
 ### Group Session
 
 * Pick 2+ group members (nominate 1 person as Owner),
