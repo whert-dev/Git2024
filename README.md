@@ -6,6 +6,8 @@ This is the repository for the *Beginners' Git* workshop.
 
 If your coming from the *Live Page*, see the [`guide.md`](./guide.md) page; and the source code <https://github.com/ProgSoc/Git2024>
 
+By the end of the Workshop, you'll know about how to manage your files without awkward `Assignment-Draft`, `Assignment-Final`or `Assignment-Final1` names, and be able to contribute to open source software projects by opening issues, making and testing changes locally, and submitting Pull Requests to give back to the original project.
+
 ## Instructions
 
 + Slides: <https://docs.google.com/presentation/d/1srdiNmXH5OSu7ADCEZYxBOcBrybGCdaeWRe4vxnqsrU>
