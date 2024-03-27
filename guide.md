@@ -5,22 +5,22 @@
 ### ProgSoc @ ODay(s)
 
 * Location: CB01.04
-* Time: 10am-4pm, 13-14th Feb 2024
+* Time: 10am-4pm, 2024-02-13 to 2024-02-14
 
 ### ProgSoc Welcome Drinks
 
 * Location: Sneaky Possum Bar, Chippendale
-* Time: 6-10pm, 24rd Feb 2024
+* Time: 6-10pm, 2024-02-24
 
 ### Beginners' Python
 
 * Location: CB11.05.400 (iHub)
-* Time: 6-8pm, 28th Feb 2024
+* Time: 6-8pm, 2024-02-28
 
 ### Beginners' Java
 
 * Location: CB11.05.400 (iHub)
-* Time: 6-8pm, 13th Mar 2024
+* Time: 6-8pm, 2024-03-13
 
 ### ProgComp
 
