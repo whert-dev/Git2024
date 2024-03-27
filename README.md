@@ -49,11 +49,37 @@ If you want to jump in at a specific step of the workshop, there are available b
 * Local Development
     * `local/step-0`: Empty repository, after `git init`
     * `local/step-1`: Imported files from upstream
+        * Copy/paste contents from the `ProgSoc/Git2024` repository
+        * `git add README.md guide.md`
+        * `git commit -m "feat: import contents from upstream"`
     * `local/step-2`: Changes made in new branch
+        * Create and change to a new branch
+          * `git switch -c event-idea` or
+          * `git switch -c project-idea`
+        * Edit `guide.md` and add your event or project idea
+        * `git add guide.md`
+        * `git commit -m "feat(guide): event idea"`
     * `local/step-3`: Merged changes into main
+        * `git switch main`
+        * `git merge event-idea`
 * Group Development
     * `group/step-0`: Forked/cloned repository
+        * "Fork" on GitHub
     * `group/step-1a`: Change to full dates
+        * `git switch -c your-name/full-dates`
+        * Edit guide.md with full month name changes.
+        * `git add guide.md`
+        * `git commit -m "fix(guide): full month names"`
     * `group/step-1b`: Change to international dates
+        * `git switch -c your-name/iso-dates`
+        * Edit guide.md with international date changes.
+        * `git add guide.md`
+        * `git commit -m "fix(guide): iso dates"`
     * `group/step-2`: State after merge conflict
+        * `git switch main`
+        * `git merge your-name/full-dates`
+        * `git merge your-name/iso-dates`
+        * You'll encounter a merge conflict
     * `group/step-3`: State after resolving, and running `git commit`
+        * Edit the merge conflict, by accepting/rejecting - either in the VSCode GUI or picking what you want from the `<<<<<<<`, `=======`, `>>>>>>>` delimeters.
+        * `git commit`
